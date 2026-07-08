@@ -1,0 +1,56 @@
+# Delta License V1
+Copyright (C) 2026 Delta Virtual Machine Project  
+All rights reserved.
+
+## 1. Definitions
+"Program" means any software, source code, binary file, library, or component distributed under this License.  
+"Distribution" means any copy of the Program provided to the User in any form.  
+"User" means any individual or entity receiving the Program under this License.
+
+## 2. Granted Rights
+The User is granted the following rights without any obligation to disclose modifications or source code:
+
+- the right to disassemble the Program;
+- the right to modify Program binaries;
+- the right to modify or replace shared libraries used by the Program;
+- the right to analyze the behavior of the Program, including reverse engineering;
+- the right to modify the Program inside closed-source applications without any requirement to publish such modifications.
+
+These rights are granted for any purpose, including research, education, commercial use, and non-commercial use.
+
+## 3. Distribution Conditions
+The User may distribute the original or modified versions of the Program under the following conditions:
+
+- this License must be included with the Distribution;
+- the Copyright notice must be preserved;
+- modified versions must be clearly marked as modified.
+
+Distribution may be free of charge or for a fee.
+
+## 4. No Warranty
+The Program is provided "AS IS", without any warranty of any kind.
+
+If the User modifies the binary and the modified version fails to operate,  
+this is the User's responsibility, not the developer's.
+
+The developer is not liable for:
+- data loss;
+- malfunction of modified versions;
+- incompatibility with other software;
+- any direct or indirect damages.
+
+## 5. Limitation of Liability
+In no event shall the developer or contributors be liable for any damages arising from the use or inability to use the Program, including modified versions.
+
+## 6. License Compatibility
+The User may incorporate the Program or its components into closed-source, proprietary, or commercial applications without any obligation to disclose the source code of such applications.
+
+## 7. Termination
+Rights granted under this License terminate automatically if the User violates its terms.  
+The User retains the right to use previously obtained copies of the Program.
+
+## 8. Versioning
+The Delta Virtual Machine Project may publish new versions of the Delta License.  
+The User may choose any published version.
+
+# END OF TERMS AND CONDITIONS
