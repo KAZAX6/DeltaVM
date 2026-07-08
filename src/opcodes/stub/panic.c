@@ -1,0 +1,3 @@
+
+
+void __panic(void) {};

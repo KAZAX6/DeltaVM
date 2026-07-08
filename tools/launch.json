@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug (Native Debug + GDB)",
+            "type": "gdb",
+            "request": "launch",
+            "target": "${workspaceFolder}/a.out",
+            "cwd": "${workspaceFolder}",
+            "arguments": [],
+            "valuesFormatting": "parseText"
+        }
+    ]
+}

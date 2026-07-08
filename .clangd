@@ -1,3 +1,11 @@
 CompileFlags:
-  Add: [-std=c99, -xc]
-  Remove: [-xc++,-std=c++20,-xobjective-c++]
+  Add: [
+    -std=gnu99,
+    -xc,
+    -fno-strict-aliasing
+  ]
+  Remove: [
+    -xc++,
+    -xobjective-c,
+    -std=c++20
+  ]
